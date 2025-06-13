@@ -1,11 +1,12 @@
 <h1 align="center">Hi 👋, I'm Nguyen Quynh Trang</h1>
 <h3 align="center">A curious mind exploring technology and creativity. I made project mostly for fun and training my skills...</h3>
 
-- 🌱 I’m currently learning: **Cybersecurity**
+- 🌱 I’m currently learning: **Cybersecurity at University of Science and Technology of Ha Noi (USTH)**
 - 📫 Reach me at:
   - Academic email: trangnq.22ba13303@usth.edu.vn
   - Personal email: trangnguyenquynh909@gmail.com
-
+- 📝 I'm a member of: **FabLab USTH** – a creative space for innovation, prototyping, and community tech projects
+- 🌍 Languages: **Vietnamese (native), English (fluent), French (basic)**
 - 🌐 Let’s connect on social media:
   - [Facebook](https://www.facebook.com/chang.nggg)
   - [Instagram](https://www.instagram.com/chang.ngg_/)
