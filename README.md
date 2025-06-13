@@ -1,16 +1,40 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Nguyen Quynh Trang</h1>
+<h3 align="center">A curious mind exploring technology and creativity. I made project mostly for fun and training my skills...</h3>
 
-<!--
-**trangngg/trangngg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🌱 I’m currently learning: **Cybersecurity**
+- 📫 Reach me at:
+  - Academic email: trangnq.22ba13303@usth.edu.vn
+  - Personal email: trangnguyenquynh909@gmail.com
 
-Here are some ideas to get you started:
+- 🌐 Let’s connect on social media:
+  - [Facebook](https://www.facebook.com/chang.nggg)
+  - [Instagram](https://www.instagram.com/chang.ngg_/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- Optional: Add when you have them -->
+<!-- - 📝 I write on: [My Blog](https://your-blog-url.com) -->
+
+---
+
+### 🛠️ Skills & Tools (update this if you want)
+- 💻 Programming: Python, C/C++, HTML/CSS
+- 🔐 Cybersecurity: Wireshark
+- 🧠 AI/ML: OpenCV
+- 🧪 Tools: Git, Linux, Docker
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=trangngg&show_icons=true&theme=tokyonight" alt="Trang's GitHub stats" />
+</p>
+
+---
+
+### 📫 Contact & Profiles
+
+<p align="center">
+  <a href="mailto:trangnguyenquynh909@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.facebook.com/chang.nggg"><img src="https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white" /></a>
+  <a href="https://www.instagram.com/chang.ngg_/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" /></a>
+</p>
