@@ -16,7 +16,7 @@
 
 ---
 
-### 🛠️ Skills & Tools (update this if you want)
+### 🛠️ Skills & Tools
 - 💻 Programming: Python, C/C++, HTML/CSS
 - 🔐 Cybersecurity: Wireshark
 - 🧠 AI/ML: OpenCV
